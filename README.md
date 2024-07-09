@@ -18,6 +18,9 @@ Unity, blender
 
 김명준(서버) : auth를 별도로 구현 중에 있습니다.
 
+## 발표 자료
+https://drive.google.com/file/d/15xxasWg8T9vs0JqmveFrAN228qC16pbL/view?usp=sharing
+
 ## 선배들 피드백
 - 프로젝트 일정에 맞춘 적절한 기획과 기한 내에 필요한 기능을 잘 구현함
 - 사운드 설정에서 효과음 조절이 추가되면 좋을 것 같음.
